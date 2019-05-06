@@ -1,3 +1,2 @@
-# tensorflow-transform
-# tensorflow
-apache-beam[gcp]
+pandas
+# python-dateutil

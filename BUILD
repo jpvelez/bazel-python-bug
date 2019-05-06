@@ -5,8 +5,7 @@ py_binary(
     name="main",
     srcs=["main.py"],
     deps=[
-        # requirement("tensorflow"),
-        # requirement("tensorflow_transform"),
-        requirement("apache_beam[gcp]"),
+        requirement("pandas"),
+        requirement("python-dateutil")
     ]
 )
